@@ -1,6 +1,6 @@
 <project basedir="." default="compile">
 
-	<!-- This file contains all of the environment specific configuration, change it for your setup -->
+	<!-- This file contains all of the environment specific configuration, change it for your setup test comment -->
     <property file="local.properties"/>
 	<dirname file="${ant.file}" property="bodgeit.home"/>
 
